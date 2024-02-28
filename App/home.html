@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <script>
+    function sendComp() {
+        console.log(document.getElementById("comp").value);
+        console.log(document.getElementById("players").value);
+      var xmlHttp = new XMLHttpRequest();
+      xmlHttp.open( "POST", "http://localhost:8000/test.php", false );
+      xmlHttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+      xmlHttp.send( "comp=" + document.getElementById("comp").value + "&players=" + document.getElementById("players").value );
+      document.getElementById("result").innerHTML = xmlHttp.responseText;
+    }
+
+  </script>
+</head>
+<body>
+<div>
+<p>
+Comp:
+  <textarea id="comp" rows="10" cols="30"></textarea>
+</p>
+<p>
+Players:
+<textarea id="players" rows="10" cols="30"></textarea>
+</p>
+<button type="submit" onclick="sendComp()">submit</button>
+</div>
+<div id="result"></div>
+</body>
+</html>

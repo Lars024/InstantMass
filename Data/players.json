@@ -1,0 +1,2497 @@
+{
+    "BTwpB1etTYSmt3Ins6IyeA": {
+        "playerName": "dumbpubs",
+        "weapons": {
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 3,
+                "deaths": 7,
+                "usage_count": 92
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 10
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 8
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 6
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 2,
+                "usage_count": 5
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "2H_ENIGMATICSTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_LONGBOW_UNDEAD": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HALBERD_MORGANA": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_COMBATSTAFF_MORGANA": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_CURSEDSTAFF": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 5,
+                "usage_count": 1
+            }
+        }
+    },
+    "w7UmbDzZRAuWyTEoNj57tA": {
+        "playerName": "TheSusBaguette",
+        "weapons": {
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 65,
+                "deaths": 8,
+                "usage_count": 68
+            },
+            "2H_HAMMER_AVALON": {
+                "role": "tank",
+                "kills": 13,
+                "deaths": 11,
+                "usage_count": 36
+            },
+            "2H_FIRESTAFF_HELL": {
+                "role": "dps",
+                "kills": 73,
+                "deaths": 6,
+                "usage_count": 27
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 17
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 4,
+                "usage_count": 16
+            },
+            "MAIN_ARCANESTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 6,
+                "deaths": 5,
+                "usage_count": 13
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 4,
+                "usage_count": 12
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 8
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 7
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 0,
+                "usage_count": 7
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 7,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 5,
+                "usage_count": 5
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 5
+            },
+            "2H_SHAPESHIFTER_KEEPER": {
+                "role": "tank",
+                "kills": 5,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_SHAPESHIFTER_SET2": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_KNUCKLES_KEEPER": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_REPEATINGCROSSBOW_UNDEAD": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "ypcp2v-dRnWKDps_lhlYmw": {
+        "playerName": "gghavefun",
+        "weapons": {
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 2,
+                "deaths": 49,
+                "usage_count": 118
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 4,
+                "usage_count": 5
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_DUALSCIMITAR_UNDEAD": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 1
+            },
+            "2H_NATURESTAFF_KEEPER": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ENIGMATICSTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "PfKmpJqiRUyzubeStLig-g": {
+        "playerName": "Fallrach",
+        "weapons": {
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 17
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_HALBERD": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "nJBqVpcQS9SEtNJK69nkQA": {
+        "playerName": "Samanthaaaaaaaa",
+        "weapons": {
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 5,
+                "deaths": 1,
+                "usage_count": 38
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 0,
+                "usage_count": 25
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 13
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "MAIN_DAGGER_HELL": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_HALBERD": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "": {
+                "role": "",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_MACE_HELL": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "2IpA6s_eSROUEmrU-Ci4TA": {
+        "playerName": "Razorra",
+        "weapons": {
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 1,
+                "deaths": 4,
+                "usage_count": 13
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 6
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_HALBERD_MORGANA": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_DUALHAMMER_HELL": {
+                "role": "dps",
+                "kills": 13,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "2H_BOW": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_LONGBOW": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 3,
+                "usage_count": 1
+            }
+        }
+    },
+    "ZTLTPy0OSsaxaUgEG_7oJg": {
+        "playerName": "Kyrkohede",
+        "weapons": {
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 3,
+                "deaths": 28,
+                "usage_count": 49
+            },
+            "2H_WILDSTAFF": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 11,
+                "usage_count": 29
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 7,
+                "usage_count": 20
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 2,
+                "deaths": 8,
+                "usage_count": 16
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            }
+        }
+    },
+    "QtrcQC_LSQmmVFCQDk2MuA": {
+        "playerName": "QuaresmaTheElder",
+        "weapons": {
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 17,
+                "usage_count": 42
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 29,
+                "deaths": 8,
+                "usage_count": 32
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 6,
+                "usage_count": 16
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 15
+            },
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 5,
+                "usage_count": 13
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 2,
+                "deaths": 4,
+                "usage_count": 12
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 5,
+                "usage_count": 10
+            },
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 22,
+                "deaths": 1,
+                "usage_count": 7
+            },
+            "MAIN_DAGGER_HELL": {
+                "role": "dps",
+                "kills": 7,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 15,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_KNUCKLES_MORGANA": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "5lF6ovFAR5CrY9fhhCwwQA": {
+        "playerName": "NlEMI",
+        "weapons": {
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 24,
+                "deaths": 6,
+                "usage_count": 38
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 19,
+                "deaths": 2,
+                "usage_count": 14
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 8
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 6
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 15,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_DUALSICKLE_UNDEAD": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "QqeXXa1oR2-utWNu1dJ2JQ": {
+        "playerName": "Nigerinha",
+        "weapons": {
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "XF1QK94OSNqskQiHu4Gsrw": {
+        "playerName": "ZuhriTG",
+        "weapons": {
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 748,
+                "deaths": 18,
+                "usage_count": 177
+            },
+            "2H_HAMMER_AVALON": {
+                "role": "tank",
+                "kills": 4,
+                "deaths": 2,
+                "usage_count": 11
+            },
+            "2H_DUALSICKLE_UNDEAD": {
+                "role": "dps",
+                "kills": 11,
+                "deaths": 0,
+                "usage_count": 5
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "": {
+                "role": "",
+                "kills": 2,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_SCYTHE_HELL": {
+                "role": "dps",
+                "kills": 7,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_ARCANESTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 2,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_DUALSCIMITAR_UNDEAD": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_DAGGERPAIR": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "1399FT0zRD-bPbeZHXZb4w": {
+        "playerName": "Kijavica",
+        "weapons": {
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 21,
+                "usage_count": 75
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 16,
+                "usage_count": 54
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 19
+            },
+            "2H_HAMMER_AVALON": {
+                "role": "tank",
+                "kills": 3,
+                "deaths": 8,
+                "usage_count": 18
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "-mPDY8fpR6GphF2KgcSBKg": {
+        "playerName": "PolarisN",
+        "weapons": {
+            "2H_WILDSTAFF": {
+                "role": "healer",
+                "kills": 1,
+                "deaths": 33,
+                "usage_count": 86
+            },
+            "2H_SHAPESHIFTER_SET2": {
+                "role": "support",
+                "kills": 2,
+                "deaths": 11,
+                "usage_count": 41
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 49,
+                "deaths": 12,
+                "usage_count": 39
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 8,
+                "deaths": 10,
+                "usage_count": 30
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 1,
+                "deaths": 7,
+                "usage_count": 30
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 6,
+                "usage_count": 26
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 9
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 6
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 2,
+                "usage_count": 5
+            },
+            "2H_INFERNOSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 5,
+                "usage_count": 5
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 4
+            },
+            "2H_ARCANE_RINGPAIR_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_DUALSICKLE_UNDEAD": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_CLAYMORE_AVALON": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_BOW_AVALON": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_KNUCKLES_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_NATURESTAFF_KEEPER": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HALBERD_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_SHAPESHIFTER_AVALON": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "xapCR2k2RVOkLyLPhb4bhQ": {
+        "playerName": "murderotica",
+        "weapons": {
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 7,
+                "usage_count": 28
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 20,
+                "deaths": 3,
+                "usage_count": 15
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 5,
+                "deaths": 0,
+                "usage_count": 11
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 10
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 1,
+                "usage_count": 9
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 9
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 8
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "": {
+                "role": "",
+                "kills": 3,
+                "deaths": 3,
+                "usage_count": 3
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 2
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "P44spyFnR3GkMFpimfwYgg": {
+        "playerName": "AlpacaPooch",
+        "weapons": {
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 8,
+                "usage_count": 25
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 7
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 4
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ROCKSTAFF_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ENIGMATICSTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_ARCANE_RINGPAIR_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 2
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 1
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "_atpZxTeQYmCvMH5FUQ_qw": {
+        "playerName": "Bappit",
+        "weapons": {
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 9,
+                "usage_count": 43
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 5,
+                "deaths": 5,
+                "usage_count": 17
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 7
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_HALBERD_MORGANA": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_CURSEDSTAFF": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "yPs3Fn61TGqcax5Ao-RdaQ": {
+        "playerName": "Caleb2601",
+        "weapons": {
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 8
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_AXE": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "hAqcCxdkS3WaDwsToH7HLg": {
+        "playerName": "EfesBodyGuard",
+        "weapons": {
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 18,
+                "deaths": 3,
+                "usage_count": 18
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 12
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 28,
+                "deaths": 3,
+                "usage_count": 9
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 8
+            },
+            "2H_HALBERD": {
+                "role": "dps",
+                "kills": 7,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "2H_DAGGER_KATAR_AVALON": {
+                "role": "dps",
+                "kills": 6,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 3,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_DUALAXE_KEEPER": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_CLAYMORE_AVALON": {
+                "role": "dps",
+                "kills": 14,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "zz_QkZ3BS1S0BPWYmBQ8tw": {
+        "playerName": "chriss002",
+        "weapons": {
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 34,
+                "deaths": 26,
+                "usage_count": 126
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 22,
+                "deaths": 11,
+                "usage_count": 35
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 6,
+                "deaths": 5,
+                "usage_count": 20
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 8
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 6
+            },
+            "MAIN_DAGGER_HELL": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 5
+            },
+            "2H_HAMMER": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "2H_ROCKSTAFF_KEEPER": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_HALBERD": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "b9tO5Sk0SByhzV-ThUKn-w": {
+        "playerName": "fatbloke",
+        "weapons": {
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 1,
+                "deaths": 7,
+                "usage_count": 15
+            },
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "qyJqtAZLQHWGLM-FqAdMkA": {
+        "playerName": "Malliis",
+        "weapons": {
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 3,
+                "deaths": 8,
+                "usage_count": 43
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 3,
+                "deaths": 12,
+                "usage_count": 31
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 24,
+                "deaths": 8,
+                "usage_count": 26
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 12
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 5,
+                "usage_count": 12
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 9
+            },
+            "2H_BOW_AVALON": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 2,
+                "usage_count": 7
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 0,
+                "usage_count": 6
+            },
+            "2H_CROSSBOWLARGE_MORGANA": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 5
+            },
+            "2H_BOW_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "6qVL7ajIR22mGjdNJgiCeQ": {
+        "playerName": "Qukkes",
+        "weapons": {
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 1,
+                "deaths": 18,
+                "usage_count": 40
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 13,
+                "deaths": 2,
+                "usage_count": 9
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "r57unG2mQ2eKavpBMfdjDg": {
+        "playerName": "Takeoss",
+        "weapons": {
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 11,
+                "usage_count": 80
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 5,
+                "usage_count": 25
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 7,
+                "usage_count": 25
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 6,
+                "usage_count": 13
+            },
+            "2H_CLAYMORE_AVALON": {
+                "role": "dps",
+                "kills": 11,
+                "deaths": 4,
+                "usage_count": 10
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 8
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 5,
+                "usage_count": 7
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 3
+            },
+            "2H_GLAIVE": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "MAIN_SPEAR_KEEPER": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_NATURESTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_AVALON": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HAMMER_AVALON": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "V-upYBDTSZu8ESiapV88Aw": {
+        "playerName": "Wokobo",
+        "weapons": {
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 9,
+                "deaths": 8,
+                "usage_count": 38
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 15
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 13
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 11
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 11
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 8
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 8
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 5
+            },
+            "2H_SHAPESHIFTER_SET2": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 4
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "MAIN_ARCANESTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_BOW_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 1
+            }
+        }
+    },
+    "FpYbTB4jRcKeQh6cAvuB_w": {
+        "playerName": "ARCnyx",
+        "weapons": {
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 2,
+                "deaths": 16,
+                "usage_count": 47
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 18
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 8,
+                "usage_count": 15
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 0,
+                "usage_count": 14
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 9
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 8,
+                "usage_count": 5
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "zQsXHUXwRiOIqmGSpEjeKA": {
+        "playerName": "Jeanneski",
+        "weapons": {
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 739,
+                "deaths": 25,
+                "usage_count": 208
+            },
+            "": {
+                "role": "",
+                "kills": 2,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "TRASH": {
+                "role": "",
+                "kills": 4,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "BcNZJ5RHQFGSzp_-kAgBSw": {
+        "playerName": "Sakurafrost92",
+        "weapons": {
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 3,
+                "deaths": 3,
+                "usage_count": 63
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 26,
+                "deaths": 0,
+                "usage_count": 47
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 4
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            }
+        }
+    },
+    "aKofXvh2Qa-9ZCtrTWrneA": {
+        "playerName": "Blueeez",
+        "weapons": {
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 6,
+                "deaths": 11,
+                "usage_count": 83
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 23,
+                "deaths": 5,
+                "usage_count": 25
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 19
+            },
+            "2H_CURSEDSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 10
+            },
+            "2H_ENIGMATICSTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 10
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 10
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 8
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 6
+            },
+            "2H_CROSSBOWLARGE_MORGANA": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 6
+            },
+            "2H_ARCANESTAFF": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 5
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 2,
+                "usage_count": 5
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 4
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 9,
+                "deaths": 3,
+                "usage_count": 3
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 3
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 2
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "MAIN_MACE_HELL": {
+                "role": "tank",
+                "kills": 2,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_DOUBLEBLADEDSTAFF": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_INFERNOSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_SET3": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_DAGGER_HELL": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_HOLYSTAFF": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ARCANESTAFF_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "": {
+                "role": "",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_ROCKSTAFF_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "I6TMtJfbSFeDYCoaqWwqUA": {
+        "playerName": "stabashins",
+        "weapons": {
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 0,
+                "usage_count": 17
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 4,
+                "usage_count": 14
+            },
+            "2H_HOLYSTAFF_HELL": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 7
+            },
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_CLEAVER_HELL": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_CURSEDSTAFF": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "UpuH38LjRf2sqOT4CijLDw": {
+        "playerName": "Kakaan7",
+        "weapons": {
+            "2H_FIRESTAFF_HELL": {
+                "role": "dps",
+                "kills": 65,
+                "deaths": 13,
+                "usage_count": 30
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 30,
+                "deaths": 1,
+                "usage_count": 13
+            },
+            "2H_DUALSCIMITAR_UNDEAD": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 5,
+                "usage_count": 8
+            },
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 14,
+                "deaths": 2,
+                "usage_count": 5
+            },
+            "2H_SHAPESHIFTER_AVALON": {
+                "role": "dps",
+                "kills": 8,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "MAIN_ARCANESTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 3,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 4,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_REPEATINGCROSSBOW_UNDEAD": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_CROSSBOWLARGE_MORGANA": {
+                "role": "dps",
+                "kills": 8,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_HAMMER_AVALON": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "2H_INFERNOSTAFF_MORGANA": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_HARPOON_HELL": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_DUALMACE_AVALON": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_AVALON": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_QUARTERSTAFF_AVALON": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_DEMONICSTAFF": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    },
+    "PKOw5066Tjasuje-FMYeJw": {
+        "playerName": "fatalimpact",
+        "weapons": {
+            "2H_HAMMER_AVALON": {
+                "role": "tank",
+                "kills": 27,
+                "deaths": 19,
+                "usage_count": 95
+            },
+            "MAIN_RAPIER_MORGANA": {
+                "role": "dps",
+                "kills": 33,
+                "deaths": 0,
+                "usage_count": 26
+            },
+            "2H_TWINSCYTHE_HELL": {
+                "role": "tank",
+                "kills": 9,
+                "deaths": 3,
+                "usage_count": 16
+            },
+            "MAIN_ARCANESTAFF": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 15
+            },
+            "2H_MACE": {
+                "role": "tank",
+                "kills": 1,
+                "deaths": 3,
+                "usage_count": 14
+            },
+            "2H_HAMMER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 11
+            },
+            "MAIN_HOLYSTAFF_AVALON": {
+                "role": "healer",
+                "kills": 0,
+                "deaths": 2,
+                "usage_count": 9
+            },
+            "MAIN_MACE": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 8
+            },
+            "2H_KNUCKLES_KEEPER": {
+                "role": "dps",
+                "kills": 17,
+                "deaths": 0,
+                "usage_count": 6
+            },
+            "2H_SHAPESHIFTER_KEEPER": {
+                "role": "tank",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 6
+            },
+            "MAIN_ROCKMACE_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 5
+            },
+            "MAIN_ARCANESTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 4,
+                "deaths": 2,
+                "usage_count": 5
+            },
+            "2H_ICECRYSTAL_UNDEAD": {
+                "role": "dps",
+                "kills": 2,
+                "deaths": 3,
+                "usage_count": 5
+            },
+            "2H_KNUCKLES_HELL": {
+                "role": "dps",
+                "kills": 10,
+                "deaths": 2,
+                "usage_count": 5
+            },
+            "2H_ENIGMATICORB_MORGANA": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 4
+            },
+            "2H_ICEGAUNTLETS_HELL": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 4
+            },
+            "2H_AXE_AVALON": {
+                "role": "dps",
+                "kills": 5,
+                "deaths": 1,
+                "usage_count": 4
+            },
+            "MAIN_SCIMITAR_MORGANA": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "MAIN_CURSEDSTAFF_UNDEAD": {
+                "role": "support",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 3
+            },
+            "2H_RAM_KEEPER": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 3
+            },
+            "2H_FIRESTAFF_HELL": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 3,
+                "usage_count": 2
+            },
+            "2H_DUALSICKLE_UNDEAD": {
+                "role": "dps",
+                "kills": 10,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_SHAPESHIFTER_SET3": {
+                "role": "tank",
+                "kills": 0,
+                "deaths": 0,
+                "usage_count": 2
+            },
+            "2H_CROSSBOW_CANNON_AVALON": {
+                "role": "dps",
+                "kills": 0,
+                "deaths": 1,
+                "usage_count": 2
+            },
+            "": {
+                "role": "",
+                "kills": 2,
+                "deaths": 2,
+                "usage_count": 2
+            },
+            "2H_CROSSBOWLARGE_MORGANA": {
+                "role": "dps",
+                "kills": 3,
+                "deaths": 0,
+                "usage_count": 1
+            },
+            "2H_KNUCKLES_MORGANA": {
+                "role": "dps",
+                "kills": 1,
+                "deaths": 0,
+                "usage_count": 1
+            }
+        }
+    }
+}
